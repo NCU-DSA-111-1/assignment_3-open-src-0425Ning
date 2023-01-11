@@ -13,9 +13,9 @@ Program is designed to use basic archiving algorithm based on Huffman code for e
 
 Usage: `<binname.ext> [mode] [input filename] [output filename]`
 where mode may be:
-                e for encoding (0)
-                d for decoding (1)
-                qe for fast encoding (2)
+e for encoding (0)
+d for decoding (1)
+qe for fast encoding (2)
 
 source from: https://github.com/ALikhachev/Huffman-code/blob/master/huffman.c
 
