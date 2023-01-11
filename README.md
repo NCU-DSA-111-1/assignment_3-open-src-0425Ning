@@ -1,1 +1,8 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9711209&assignment_repo_type=AssignmentRepo)
+# Huffman Coding & Arithmetic Coding
+
+## This project has two branches
+
+You can find the code of Huffman Coding at 0425Ning-patch-HuffmanCoding <br />
+You can find the code of Arithmetic Coding at 0425Ning-patch-ArithmeticCoding <br />
+
+<br />
