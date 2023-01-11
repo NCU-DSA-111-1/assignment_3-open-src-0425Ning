@@ -16,6 +16,7 @@ where mode may be:
                 e for encoding (0)
                 d for decoding (1)
                 qe for fast encoding (2)
+
 source from: https://github.com/ALikhachev/Huffman-code/blob/master/huffman.c
 
 <br />
